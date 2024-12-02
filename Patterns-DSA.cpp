@@ -365,6 +365,7 @@ int main(){
         //Enter the number of times you want to run a pattern(or multiple patterns) as 't'
         //'n' is the input for the functions of patterns
         //All function calls of the functions of patterns are commented out
+        //Switch - case isn't used because I felt it would overcomplicate stuff
         
 
         //print1(n);
