@@ -141,7 +141,7 @@ int main(){
 
     //Functions are written above main function
     //All those functions are commented-out below
-    //If you want to see one function at a time (or all) , remove the comment and run the program
+    //If you want to see one function at a time (or all), remove the comment and run the program
 
     for(int i = 0;i < t;i++){
         cout << "Enter Number for Counting Digits,Reverse of a Number,Check Palindrome ,Check Armstrong Number, Print All Divisors or Check Prime Number : ";
